@@ -1,0 +1,33 @@
+{
+  "gastos_totales": {
+    "ordinarias": {
+      "categorias": [
+        {
+          "descripcion": "Alquiler",
+          "monto": 1000,
+          "periodo": "Periodo 8/2024"
+        },
+        {
+          "descripcion": "Servicios",
+          "monto": 300,
+          "periodo": "Periodo 8/2024"
+        }
+      ]
+    },
+    "extraordinarias": {
+      "categorias": [
+        {
+          "descripcion": "Reparaciones",
+          "monto": 150,
+          "periodo": "Periodo 8/2024"
+        },
+        {
+          "descripcion": "Eventos",
+          "monto": 200,
+          "periodo": "Periodo 7/2024"
+        }
+      ]
+    },
+    "total": 1950
+  }
+}
