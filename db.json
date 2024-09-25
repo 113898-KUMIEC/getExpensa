@@ -12,7 +12,9 @@
           "monto": 300,
           "periodo": "Periodo 8/2024"
         }
-      ]
+      ],
+      "estado":"Aprobado",
+      "total": 1300
     },
     "extraordinarias": {
       "categorias": [
@@ -26,7 +28,9 @@
           "monto": 200,
           "periodo": "Periodo 7/2024"
         }
-      ]
+      ],
+      "estado":"Aprobado",
+      "total":350
     },
     "total": 1950
   }
